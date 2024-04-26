@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@700;900&family=Oswald&display=swap");
+/* font-family: "Merriweather", serif;
+font-family: "Oswald", sans-serif; */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background-color: #eee;
+}
+img{
+  display: block;
+  align-items: center;
+  width: 40%;
+  background-color: #eee;
+  border: 2px solid orange;
+}
+header{
+  background-color: #eee;
+  border: 2px solid orange;
+}
+button{
+  background-color: #eee;
+  border: 2px solid orange;
+}
+#app{
+  position:relative;
+  top: 10rem;
+  left: 19rem;
+  display: flex;
+  flex-direction: row;
+}
+button{
+  font-size: 10rem;
+}
